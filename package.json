@@ -1,0 +1,11 @@
+{
+  "name": "cra-template-redus",
+  "version": "1.2.0",
+  "devDependencies": {
+    "np": "^7.7.0"
+  },
+  "scripts": {
+    "release": "np",
+    "test": "react-scripts test"
+  }
+}
